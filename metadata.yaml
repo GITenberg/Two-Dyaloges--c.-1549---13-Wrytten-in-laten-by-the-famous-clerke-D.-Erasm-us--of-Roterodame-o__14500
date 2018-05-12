@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3026
     wikipedia: http://en.wikipedia.org/wiki/Erasmus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14500#Two-Dyaloges--c.-1549---13-Wrytten-in-laten-by-the-famous-clerke-D.-Erasm-us--of-Roterodame-o_
 gutenberg_issued: '2004-12-28'
 gutenberg_type: Text
 identifiers:
