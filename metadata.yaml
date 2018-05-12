@@ -1,0 +1,30 @@
+_repo: Two-Dyaloges--c.-1549---13-Wrytten-in-laten-by-the-famous-clerke-D.-Erasm-us--of-Roterodame-o__14500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Dialogues, Latin (Medieval and modern) -- Translations into English'
+title: "Two Dyaloges (c. 1549)\r\nWrytten in laten by the famous clerke, D. Erasm[us]\
+  \ of Roterodame, one called Polyphemus or the gospeller, the other dysposyng of\
+  \ thynges and names, translated in to Englyshe by Edmonde Becke."
+url: http://www.gutenberg.org/ebooks/14500
